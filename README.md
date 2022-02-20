@@ -1,3 +1,4 @@
 # hello-world
-My first try. Maybe store some ideas.
+My first try. 
 I'm doing some editing.
+I'm a student.
